@@ -1,4 +1,6 @@
-![My banner, why are you reading this btw](banner.gif)
+<p align="center">
+  <img src="img/banner.gif" alt="My banner, why are you reading this btw"/>
+</p>
 <h1 align="center">Hi, I'm <a href="https://ruecat.dev" target="_blank">Rikkichy!</a></h1>
 
 <div align="center">
@@ -23,6 +25,10 @@ const MyTechStack = {
     focus: ['Web Dev', 'Content Creation', 'Being Silly :3']
 };
 ```
+<h3 align="center">That's all!</a></h3>
+<p align="center">
+  <img src="img/dance.gif" alt="My banner, why are you reading this btw"/>
+</p>
 
 ---
 
