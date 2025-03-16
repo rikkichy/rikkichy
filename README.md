@@ -1,7 +1,7 @@
 <p align="center">
   <img src="img/banner.gif" alt="My banner, why are you reading this btw"/>
 </p>
-<h1 align="center">Hi, I'm <a href="https://ruecat.dev" target="_blank">Rikkichy!</a></h1>
+<h1 align="center">Hi, I'm <a href="https://rii.cat" target="_blank">Rikkichy!</a></h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/VTuber-7287fd?style=for-the-badge" alt="VTuber"/>
@@ -21,17 +21,11 @@
 const MyTechStack = {
     languages: ['JavaScript', 'TypeScript', 'Python'],
     frontend: ['Vue.js', 'Nuxt.js', 'TailwindCSS'],
-    tools: ['Premiere Pro'],
+    tools: ['Premiere Pro, VSCodium'],
     focus: ['Web Dev', 'Content Creation', 'Being Silly :3']
 };
 ```
 <h3 align="center">That's all!</a></h3>
 <p align="center">
-  <img src="img/dance.gif" alt="My banner, why are you reading this btw"/>
+  <img src="img/dance.gif" alt="Shiroko :3"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikkichy&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
